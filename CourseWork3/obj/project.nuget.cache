@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yoOV6q2lpC2zjrInfjSpbWa+/oQuQo6EmTcE8tBpnL+i1tmINg88auza5Mqhv6amh+A0+Qojb3hQez7uTaTYZg==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\Project\\CourseWork3\\CourseWork3\\CourseWork3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
